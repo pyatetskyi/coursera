@@ -1,2 +1,0 @@
-java -jar checkstyle-8.0-all.jar -c /sun_checks.xml Percolation.java
-java -jar checkstyle-8.0-all.jar -c /sun_checks.xml PercolationStats.java
